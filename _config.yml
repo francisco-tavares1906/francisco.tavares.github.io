@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Francisco-Tavares-2024.jpg"
+  avatar           : "Francisco-Tavares-2024.jpg"
   name             : "Francisco Tavares"
   pronouns         : 
   bio              : "PhD Student in Economics at EUI"
