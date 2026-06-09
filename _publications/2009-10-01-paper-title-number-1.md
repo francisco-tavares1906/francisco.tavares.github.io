@@ -4,9 +4,9 @@ collection: publications
 category: research_project
 permalink: /publication/industrial-policy-investment-grants
 date: 2026-05-20
-venue: 'Working Paper'
-slidesurl: ''
-paperurl: ''
+
+
+
 
 ---
 
