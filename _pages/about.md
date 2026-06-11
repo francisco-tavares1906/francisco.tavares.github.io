@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I am a PhD Student at the European University Institute. My interests focus on household finance, inequality, and labor economics. In my research, I am studying the heterogeneous worker-level effects of industrial policy through the impact of the European Cohesion Policy Program in Portuguese firms. Other ongoing projects focus on households' exposure to climate risks and how they adjust to it. I am lucky to be supervised by Prof. Alexander Ludwig and Prof. Matthew Mitchell. Previously, I worked at both the European Central Bank and the Swedish House of Finance.
+I am a PhD Student at the European University Institute. My interests focus on household finance, inequality, and labor economics. In my research, I am studying the heterogeneous worker-level effects of industrial policy through the impact of the European Cohesion Policy Program in Portuguese firms. Other ongoing projects focus on households' exposure to climate risks and how they adjust to it. In particular, I am developing a life-cycle portfolio choice model with physical climate risk to analyze how climate change affects savings behavior, portfolio allocation, and homeownership decisions. I am lucky to be supervised by Prof. Alexander Ludwig and Prof. Matthew Mitchell. Previously, I worked at both the European Central Bank and the Swedish House of Finance.
 
 I’m always interested in new projects and understanding what other colleagues are working on. If you’d like to get in touch with me, please email me at **francisco.tavares [at] eui.eu**.
 
